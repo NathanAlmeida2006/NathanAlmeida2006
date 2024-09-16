@@ -17,8 +17,11 @@ Aqui estão algumas das tecnologias e linguagens que utilizo:
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  
+
 </div>
   
 ## - Contato 📬
@@ -31,4 +34,6 @@ Entre em contato comigo através dos links abaixo:
 
 ---
 
-<img src="ezgif.com-video-to-gif-converter.gif" alt="Descrição da imagem" width="230"/> <img src="ezgif.com-animated-gif-maker.gif" alt="Descrição da imagem" width="410"/>
+ <img src="ezgif.com-animated-gif-maker.gif" alt="Descrição da imagem" width="410"/>
+
+
