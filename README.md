@@ -33,7 +33,6 @@ Entre em contato comigo através dos links abaixo:
 </div>
 
 ---
-
- <img src="ezgif.com-animated-gif-maker.gif" alt="Descrição da imagem" width="410"/>
+ <img src="pantera.gif" alt="Descrição da imagem" width="300"/>
 
 
