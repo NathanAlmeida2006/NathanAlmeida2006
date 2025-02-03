@@ -22,6 +22,8 @@ I'm a **18-year-old programming enthusiast** from Brazil, passionate about both 
 
 ### 🛠️ Tech Stack
 
+<p>Here are some technologies and languages I use for development</p>
+
 #### **Core Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -52,8 +54,6 @@ I'm a **18-year-old programming enthusiast** from Brazil, passionate about both 
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  
 [![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanAlmeida2006&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAlmeida2006&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -65,21 +65,18 @@ I'm a **18-year-old programming enthusiast** from Brazil, passionate about both 
 
 ### 🌐 Let's Connect!
 
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/-nathanfelipi2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanfelipi2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+<p>Get in touch with me through the links below!</p>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanfelipi2006@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547992467738)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-felipi-almeida-2a1049333/)
   
 </div>
 
 ---
 
-<div align="center">
-  <img src="pantera.gif" alt="Coding Panther" width="250"/>
-  <br>
-  <em>"Expose yourself to your deepest fear; after that, fear has no power, and the fear of freedom shrinks and vanishes. You are free." - Jim Morrison </em>
-</div>
+<img src="pantera.gif" alt="Coding Panther" width="300"/>
+
+*“Face your challenges with courage; after that, no bug can stop you!” - Inspired by Jim Morrison*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&fontAlignY=65"/>
