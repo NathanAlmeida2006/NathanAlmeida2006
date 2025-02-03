@@ -56,8 +56,6 @@ I'm a **18-year-old programming enthusiast** from Brazil, passionate about both 
 
 [![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanAlmeida2006&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAlmeida2006&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NathanAlmeida2006&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
