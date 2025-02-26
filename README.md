@@ -70,6 +70,4 @@ I'm a **18-year-old programming enthusiast** from Brazil, specializing in IoT sy
 
 <img src="iot-chip.gif" alt="IoT Chip Animation" width="300"/>
 
-*“In IoT, every byte matters - just like every connection in life!” - Inspired by Nikola Tesla*
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&fontAlignY=65"/>
