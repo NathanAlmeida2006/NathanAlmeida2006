@@ -54,7 +54,6 @@ I'm a **18-year-old programming enthusiast** from Brazil, specializing in IoT sy
 
 ### 📈 GitHub Analytics
 
-[![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanAlmeida2006&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAlmeida2006&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
