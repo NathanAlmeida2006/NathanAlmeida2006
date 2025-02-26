@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&animation=fadeIn&fontAlignY=45"/>
 
 <div align="center">
-  <h1>🚀 Welcome to My IoT & Backend Development Hub! 🚀</h1>
+  <h1>🚀 Welcome to My Space! 🚀</h1>
   <h3>Nathan Felipi Almeida • IoT & Backend Developer</h3>
 </div>
 
@@ -49,12 +49,6 @@ I'm a **18-year-old programming enthusiast** from Brazil, specializing in IoT sy
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📈 GitHub Analytics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAlmeida2006&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
