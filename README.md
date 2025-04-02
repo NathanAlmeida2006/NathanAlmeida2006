@@ -75,4 +75,9 @@
 
 <img src="iot-chip.gif" alt="IoT Chip Animation" width="300"/>
 
+<!-- Snake Game -->
+<div align="center">
+<img src="https://github.com/nathanfelipi2006/nathanfelipi2006/blob/output/github-contribution-grid-snake.svg" alt="Snake Game Animation">
+</div>
+<!-- End Snake Game -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&fontAlignY=65"/>
