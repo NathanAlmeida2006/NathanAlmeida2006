@@ -8,18 +8,30 @@
 
 ---
 
-### 🔥 About Me
+```yaml
+- Identity: 
+  - Name: "Nathan Felipi Almeida"
+  - Age: 18 years
+  - Nationality: 🇧🇷 Brazilian (Tech enthusiast from Santa Catarina!)
 
-I'm a **18-year-old programming enthusiast** from Brazil, specializing in IoT systems and backend development. When I'm not coding, you'll find me:
+- Superpowers:
+  - 🖥️ Turning coffee into functional code
+  - 🔌 Making hardware obey my commands
+  - 🧠 Solving problems in unconventional ways
 
-- 🌐 Developing IoT solutions with ESP32 and Arduino
-- 🖥️ Building robust backend systems with Spring Boot
-- 🐳 Containerizing applications with Docker
-- 🧪 Writing unit tests with JUnit
-- 📊 Documenting systems with Mermaid.js
+- Hobbies:
+  - 🎵 Composing and writing music (my creative outlet)
+  - 💪 Calisthenics workouts (street workout style)
+  - 🎮 Playing indie games (supporting small devs)
+  - 🚶‍♂️ Long walks (where I get my best coding ideas)
+  - 🔧 Taking apart electronics "to see how they work"
 
-**Current Focus:** Building scalable IoT platforms with backend integration
+- Culture:
+  - 🎸 Favorite Band: "Nirvana" (but also loves electronic)
+  - 🎮 Gaming: "Between Arduino and TABS"
+  - 🎬 Movies: "BladeRunner 2049"
 
+```
 ---
 
 ### 🛠️ Tech Stack
