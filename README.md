@@ -75,8 +75,12 @@
 
 <img src="iot-chip.gif" alt="IoT Chip Animation" width="300"/>
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathanfelipi2006/nathanfelipi2006/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathanfelipi2006/nathanfelipi2006/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nathanfelipi2006/nathanfelipi2006/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&fontAlignY=65"/>
