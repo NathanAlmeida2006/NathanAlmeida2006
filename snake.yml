@@ -1,0 +1,53 @@
+# .github/workflows/snake.yml
+name: Generate Snake Animation
+
+on:
+  # Roda automaticamente a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite rodar manualmente pela aba Actions do repositório
+  workflow_dispatch:
+  # Roda quando você faz push para a branch principal (geralmente 'main' ou 'master')
+  push:
+    branches:
+      - main  # <-- IMPORTANTE: Mude para 'master' se sua branch principal tiver esse nome
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest # O tipo de máquina virtual onde a action vai rodar
+    steps:
+      # Passo 1: Pega o código do seu repositório para a máquina virtual
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Passo 2: Gera a animação da cobrinha
+      - name: Generate snake animation
+        # Usa a action pronta chamada Platane/snk na versão 3
+        uses: Platane/snk@v3
+        with:
+          # Pega seu username automaticamente
+          github_user_name: ${{ github.repository_owner }}
+          # Define onde salvar os arquivos SVG gerados
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # Token necessário para a action acessar seus dados de contribuição
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Passo 3: Salva os arquivos gerados de volta no seu repositório
+      - name: Commit and push generated files
+        run: |
+          git config --global user.name 'github-actions[bot]' # Identifica o commit como sendo do bot
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/ # Adiciona a pasta 'dist' com os SVGs ao stage do git
+          # Verifica se realmente houve mudanças nos arquivos antes de commitar
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Generate Contribution Snake" # Cria o commit
+            git push # Envia o commit de volta para o seu repositório GitHub
+          fi
+        # Nota: Se este passo der erro de permissão, pode ser necessário ajustar
+        # as permissões do workflow nas configurações do repositório, ou usar
+        # uma estratégia diferente (como commitar para uma branch separada 'output').
