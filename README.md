@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&animation=fadeIn&fontAlignY=45"/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=008B8B&width=670&lines=Hello,+World!+👋+|+I'm+Nathan+Felipi+Almeida;IoT+&+Backend+Developer+|+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=008B8B&width=670&lines=Hello,+World!+👋+|+I'm+Nathan+Felipi+Almeida;" alt="Typing SVG" />
   <h1>🚀 Welcome to My Space! 🚀</h1>
   <h3>Nathan Felipi Almeida • IoT & Backend Developer</h3>
 </div>
