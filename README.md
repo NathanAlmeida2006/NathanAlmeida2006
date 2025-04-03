@@ -27,7 +27,7 @@
   - 🔧 Taking apart electronics "to see how they work"
 
 - Culture:
-  - 🎸 Favorite Band: "Nirvana" (but also loves electronic)
+  - 🎸 Favorite Band: "Nirvana" (Come as you are)
   - 🎮 Gaming: "Between Arduino and TABS"
   - 🎬 Movies: "BladeRunner 2049"
 
